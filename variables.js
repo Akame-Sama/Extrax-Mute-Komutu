@@ -1,0 +1,9 @@
+bot.variables{(
+ muterol:"",
+ unmute:"",
+ muteyetkili:"",
+ mutelog:"",
+ cezap:"0",
+ mutep:"0",
+ mutezmn:""
+})
